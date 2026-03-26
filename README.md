@@ -18,4 +18,4 @@ This repository contains all the projects from digital literacy course that i ma
 5. **Module 5:** Professional Email & Etiquette Guide 
 
 ## Project Links
-* **Digital Literacy Quiz (Google Form):** []
+* **Digital Literacy Quiz (Google Form):** [https://forms.gle/j624VwnFNaGN6hLr9]
