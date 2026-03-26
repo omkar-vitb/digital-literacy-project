@@ -1,6 +1,6 @@
 # CSE0001: Digital Literacy Project
 
-## Student Information
+## My Information
 * **Name:** [omkar kumar]
 * **Registration Number:** [25BAI10893]
 * **Branch:** Computer Science and Engineering(AIML)
