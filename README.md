@@ -1,8 +1,8 @@
 # CSE0001: Digital Literacy Project
 
 ## My Information
-* **Name:** [omkar kumar]
-* **Registration Number:** [25BAI10893]
+* **Name:** omkar kumar
+* **Registration Number:** 25BAI10893
 * **Branch:** Computer Science and Engineering(AIML)
 * **Year:** First Year (B.Tech)
 * **Institution:** VIT Bhopal University
