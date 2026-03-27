@@ -15,7 +15,8 @@ This repository contains all the projects from digital literacy course that i ma
 2. **Module 2:** Digital Portfolio 
 3. **Module 3:** Coding & Collaboration Platforms 
 4. **Module 4:** Professional Email & Etiquette Guide 
-5. **Module 5:** Professional Email & Etiquette Guide 
+5. **Module 5:** cybercrime casestudy and prevention-checklist.
+   
 
 ## Project Links
 * **Digital Literacy Quiz (Google Form):** [https://forms.gle/j624VwnFNaGN6hLr9]
