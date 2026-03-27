@@ -20,3 +20,11 @@ This repository contains all the projects from digital literacy course that i ma
 
 ## Project Links
 * **Digital Literacy Quiz (Google Form):** [https://forms.gle/j624VwnFNaGN6hLr9]
+
+## Portfolio links
+1. **codeforces** [https://codeforces.com/profile/ombot_385]
+2. **college github**
+3. **personal github** [https://github.com/ombot-385]
+4. **kaggle** [https://www.kaggle.com/ombot385]
+5. **hackerrank** [https://www.hackerrank.com/profile/omkar_kumar_dev]
+6. **linkedin** [https://www.linkedin.com/in/ombot385/]
