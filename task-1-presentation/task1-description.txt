@@ -1,7 +1,3 @@
-Tool Used: Canva Description of Design:
-The infographic I designed is titled "VIT BHOPAL Digital Literacy Awareness Infographic" and serves as a visual roadmap for first-year engineering students. It follows a clean, vertical layout with a professional blue and white color scheme, organized into four key 
-Section 1 (Tools): Highlights the GitHub logo to emphasize the importance of version control and project collaboration for developers.
-Section 2 (Safety): Uses a digital shield icon to represent cybersecurity awareness and the need for safe internet practices.
-Section 3 (Professionalism): Features the LinkedIn logo to remind students to build a professional identity and network with the academic community.
-Section 4 (Useful Digital Tools): Showcases the Canva logo, symbolizing the creative productivity tools available for student presentations Reflection:
-The most interesting part of creating this resource was using visual hierarchy to communicate technical importance without cluttering the page with text. I found it challenging to narrow the content down to just four core sections, as digital literacy covers a wide range of topics, but I prioritized the tools most relevant to my journey as a B.Tech CSE student. This task helped me realize that as an ambassador, my job is to make complex information accessible to my peers.
+Tool used:- canva
+
+I used canva to make this infographic on Digital Literacy Awareness Infographic . I used canva because it provides different kind of posters where we have full independency to make anything . canva has many advantages like we can do real time collabration and it is also free to use for students, so it is a great tool for students we must learn how to use canva as we requires to make assignment and projects throughout our study so learning how to use canva can be very fruitful to students.
