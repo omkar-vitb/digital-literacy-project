@@ -1,0 +1,15 @@
+mail 2:Internship enquiry
+
+To: abc@company.com
+Subject: Internship Inquiry: Summer 2026 
+
+Dear Internship Coordinator, 
+
+I am a first-year Computer Science Engineering student at VIT Bhopal University, and I am writing to express my strong interest in a summer internship opportunity with your company.
+
+I have been actively developing my skills in Python and Data Science, with a particular focus on machine learning libraries like NumPy, pandas matplotlib, scikit-learn pytorch and other libraries . I also made few projects related to these field. If you have a couple of minute then  please go through my GitHub account which i have attached below.
+
+Best regards, 
+omkar kumar
+https://github.com/omkar-vitb
+https://www.linkedin.com/in/ombot385/
