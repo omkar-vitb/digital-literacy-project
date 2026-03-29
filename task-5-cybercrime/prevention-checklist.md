@@ -1,20 +1,20 @@
 # Stay Safe Online: Prevention Checklist
 
-As a Student Digital Ambassador, I have compiled these actionable tips to help college students in India avoid falling victim to cybercrimes like the Jamtara phishing scams.
+As a Student Digital Ambassador, I have compiled some tips and if people follow these tips they can also avoid being scammed. 
 
 ### **General Digital Safety**
 
-- **Never share your UPI PIN**: You only need a PIN to send money or check your balance, never to receive it.
+- **Never share your UPI PIN**: we should be aware that UPI pin is only required while sending money not while receiving .If anyone ask the our upi pin and tells that they will send the money then we should be aware that the next person is trying to scam us.
 - **Enable Two-Factor Authentication (2FA)**: we should always enable two-factor authentication to all our social media accounts or any accounts.
-- **Verify the Caller**: Official bank representatives will never ask for OTP, PIN, or passwords over a phone call.
+- **Verify the Caller**: Official bank representatives  never asks for OTP, PIN, or passwords over a phone call.
 - **Avoid Screen-Sharing Apps**: Never download apps like AnyDesk or TeamViewer at the request of a stranger or "customer care."
-- **Check the URL**: Always look for "https://" and the padlock icon before entering any personal information on a website.
-- **Official Sources Only**: Only download banking or UPI apps directly from the official Google Play Store or Apple App Store.
+- **Check the URL**: Always look for "https://" before entering any personal details online.
+- **Official Sources Only**: Only download banking or UPI apps directly from the official Google Play Store or Apple App Store only.
 
 ### **Financial & UPI Safety**
 
-- **Beware of "Collect Requests"**: If anyone receive a random request to "Authorize" or "Pay" on your UPI app (like GPay or PhonePe), decline it immediately.
-- **UPI Limit Settings**: we should Use set our banking app to set daily transaction limits on your UPI to minimize potential losses.
+- **Beware of "Collect Requests"**: Dont authorize any payment to anyone unless you know that person.
+- **UPI Limit Settings**: we should set our upi limit so even in loss we can minimize it.
 
 ---
 
